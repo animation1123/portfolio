@@ -10,4 +10,4 @@ Assistant HR @ CNOOC Gas and Power Company
 Consumer Information Warehouse SQL
 
 
-<img src="https://github.com/animation1123/portfolio/blob/main/Screenshot%202023-10-27%20at%2010.46.07%20AM.png">
+<img src="/animation1123/portfolio/blob/main/Screenshot%202023-10-27%20at%2010.46.07%20AM.png">
